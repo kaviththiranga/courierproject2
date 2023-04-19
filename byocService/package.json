@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-api",
+  "version": "1.0.0",
+  "description": "A simple 'Hello, World!' REST API in Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
